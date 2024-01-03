@@ -22,7 +22,7 @@ public class q10 {
 
             }
 
-            System.out.println("Os valores em ordem crescente são: " + A + " e " + B);
+            System.out.printf("Os valores em ordem crescente são: %d e %d", A, B);
 teclado.close();
     }
 }
