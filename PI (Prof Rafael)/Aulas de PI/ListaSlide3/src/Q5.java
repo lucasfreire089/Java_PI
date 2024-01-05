@@ -6,14 +6,15 @@ public class Q5{
         //  System.out.println("digite um numero");
         int numero = teclado.nextInt();
         
-         int fatoração = 1;
+          int fatoração = 1;
          int i = 1;
 
         while (numero >=i){
-           
+         
+            
             fatoração *= i;
             i ++;
-        // } System.out.println(fatoração);
+        } System.out.println(fatoração);
 
 
 
@@ -22,4 +23,3 @@ teclado.close();
     }
 
     }
-}

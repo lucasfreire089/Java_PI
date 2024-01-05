@@ -32,6 +32,6 @@ System.out.println("Bem vindo ao programa de cadastro do IBGE, por favor me info
         }
 
 
-
+input.close();
     }
 }
