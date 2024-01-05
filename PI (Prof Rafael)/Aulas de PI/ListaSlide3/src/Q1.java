@@ -6,13 +6,12 @@ public class Q1 {
     public static void main(String[] args) throws Exception {
 
 
-int numero = 0
+int numero = 0;
 
 while (numero<=20){
-System.out.println(numero);
-}
-
+System.out.printf("%d e ",numero);
 numero++;
+}
 
 
     }
